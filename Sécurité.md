@@ -14,6 +14,7 @@ Mes liens sécurité :
 - https://nullsweep.com/pivot-cheatsheet-for-pentesters/
 - https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/
 - https://github.com/p0dalirius
+- https://airman604.medium.com/from-xxe-to-rce-with-php-expect-the-missing-link-a18c265ea4c7
 
 Google Dork
 - https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
