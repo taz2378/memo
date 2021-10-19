@@ -6,7 +6,8 @@ Mes liens sécurité :
 - https://www.stationx.net/nmap-cheat-sheet/
 - https://nmap.org/book/man-bypass-firewalls-ids.html
 - https://github.com/mandiant/commando-vm
-WIN/LINpeas
+
+WIN/LINpeas :
 - https://github.com/carlospolop/PEASS-ng
 - https://github.com/ShutdownRepo/Exegol
 - https://github.com/JohnHammond/poor-mans-pentest/blob/master/stabilize_shell.sh
