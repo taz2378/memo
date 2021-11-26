@@ -16,6 +16,9 @@ Mes liens sécurité :
 - https://github.com/p0dalirius
 - https://airman604.medium.com/from-xxe-to-rce-with-php-expect-the-missing-link-a18c265ea4c7
 - https://kb.digital-detective.net/display/BF/Location+of+Internet+Explorer+11+Data
+- https://www.ired.team/Notes
+- https://www.thehacker.recipes/
+
 
 Google Dork
 - https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
