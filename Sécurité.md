@@ -18,6 +18,7 @@ Mes liens sécurité :
 - https://kb.digital-detective.net/display/BF/Location+of+Internet+Explorer+11+Data
 - https://www.ired.team/Notes
 - https://www.thehacker.recipes/
+- https://github.com/BC-SECURITY/Empire
 
 
 Google Dork
